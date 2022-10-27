@@ -1,4 +1,4 @@
-# intro_to_is_course
+# Introduction to information security course
 
 # RSA 
 mã hóa và giải mã với p,q là số nguyên tố 500 bits
